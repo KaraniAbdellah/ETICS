@@ -1,0 +1,5 @@
+// How can rag here inhance our system
+
+// 1. get documents
+// 2. Process doc and store in
+// 3. Build a Pipeline (From A to Z)
